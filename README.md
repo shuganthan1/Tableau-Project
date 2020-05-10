@@ -1,1 +1,7 @@
 # Tableau-Project
+Understanding Tableau concepts and will gain knowledge to build dashboards and stories and publish them in a Tableau Server, Tableau Reader and/or Tableau Online. 
+
+Skills Learnt: Functions and calculated fields,Charts, Dashboard and Story board, Publishing and monitoring in Tableau Public, Online and Server, Trend and Cohort analysis. 
+
+TABLEAU PROJECT: WHAT IS THE HAPPIEST COUNTRY OM THE WORLD?
+Achievements: Shuganthan has designed a tableau story using a range of data visualisation tools to demonstrate his data analysis findings. Skills and tools which Shuganthan used include: Data blending as he needed to combine data from 2016 to 2019, various graphs e.g. maps, bar charts and scatter graphs, filters to extract certain data. The dataset was on the World’s Happiness Index from 2016-2019. Questions which Shuganthan has answered from the tableau story: What is the overall trend in happiness over the years?, What are the top 10 and bottom 10 countries? And How do various factors affect a country’s happiness? From the tableau story, he was able to see there was 0.03% increase of happiness between 2016 to 2019. Mainly European countries were seen in the top 10 countries (2016) and African countries in the bottom 10 (2016). He also found out there was a positive correlation between economy, social support and life expectancy with happiness scores. There was no correlation between generosity and happiness scores. 
