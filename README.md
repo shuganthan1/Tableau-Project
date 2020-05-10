@@ -1,4 +1,4 @@
-# Tableau-Project -  WHAT IS THE HAPPIEST COUNTRY OM THE WORLD?
+# Tableau-Project -  WHAT IS THE HAPPIEST COUNTRY IN THE WORLD?
 Understanding Tableau concepts and will gain knowledge to build dashboards and stories and publish them in a Tableau Server, Tableau Reader and/or Tableau Online. 
 
 Skills Learnt: Functions and calculated fields,Charts, Dashboard and Story board, Publishing and monitoring in Tableau Public, Online and Server, Trend and Cohort analysis. 
